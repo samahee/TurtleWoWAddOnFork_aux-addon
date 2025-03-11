@@ -3,7 +3,7 @@ module 'aux.gui'
 local T = require 'T'
 local aux = require 'aux'
 
-M.font = [[Fonts\ARIALN.TTF]]
+M.font = [[Fonts\2002.TTF]]
 
 M.font_size = aux.immutable-{
 	small = 13,
